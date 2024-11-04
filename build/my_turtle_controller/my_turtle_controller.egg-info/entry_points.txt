@@ -1,0 +1,3 @@
+[console_scripts]
+debug = my_turtle_controller.debug:main
+
