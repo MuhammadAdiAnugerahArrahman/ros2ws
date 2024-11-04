@@ -20,8 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'debug = my_turtle_controller.debug:main'
-            # 'tugas4dan5 = my_turtle_controller.tugas4dan5:main'
+            # 'debug = my_turtle_controller.debug:main'
+            'tugas4dan5 = my_turtle_controller.tugas4dan5:main'
             # 'turtle_flower = my_turtle_controller.turtle_flower:main'
             # 'my_node = my_turtle_controller.my_node:main'
         ],
